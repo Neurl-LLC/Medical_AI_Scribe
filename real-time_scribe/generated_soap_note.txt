@@ -1,0 +1,74 @@
+**SOAP Note**
+
+---
+
+**Subjective:**
+
+- **Chief Complaint (CC):**
+  - Bilateral lower extremity swelling and prior palpitations ("heart racing").
+
+- **History of Present Illness (HPI):**
+  - The patient is a male admitted following an emergency room visit yesterday for palpitations and a rapid heart rate. He reports feeling much better today, with his heart no longer racing after receiving Cardizem (diltiazem) in the ED, but has since developed new bilateral lower extremity swelling, which is described as uncomfortable. He suspects the swelling began after receiving Cardizem. No other acute concerns were raised. He notes improvement in his respiratory status and denies ongoing palpitations.
+
+- **History:**
+  - Past Medical History: Not specified.
+  - Surgical History: Not specified.
+  - Medications: Recently received Cardizem (diltiazem) and IV steroids; plans to switch to verapamil discussed.
+  - Allergies: Not specified.
+  - Family History: Not specified.
+  - Social History: Not specified.
+
+- **Review of Systems (ROS):**
+  - General: No acute complaints, feeling better.
+  - Cardiovascular: Previous palpitations resolved; no current chest pain.
+  - Respiratory: Improved breathing; residual diffuse wheezing.
+  - GI: No abdominal pain; no GI complaints reported.
+  - Musculoskeletal: Reports new bilateral leg swelling.
+  - Neurological: Not reported.
+  - Psychiatric: Not reported.
+
+---
+
+**Objective:**
+
+- **General Appearance:**
+  - Alert, responsive, cooperative, appears improved since yesterday.
+
+- **Vital Signs:**
+  - Heart rate: In the 90s, irregular but slower than previously noted.
+  - Other vitals: Not available via video.
+
+- **Physical Examination:**
+  - Cardiovascular: Irregular rhythm; no murmur; heart rate in the 90s.
+  - Respiratory: Diffusely diminished lung sounds, improved from yesterday; diffuse wheezing persists.
+  - Abdomen: Soft, non-tender; good bowel sounds; no organomegaly.
+  - Extremities: 1+ pitting edema in bilateral lower extremities.
+
+- **Lab/Diagnostics:**
+  - Hemoglobin dropped to 9.1 today (previous value not stated; value reported as "point one" assumed to be 9.1).
+  - Plan to repeat CBC in the morning.
+  - No other labs or imaging reported.
+
+---
+
+**Assessment:**
+
+- Paroxysmal atrial fibrillation/flutter with rapid ventricular response: Much improved with rate control, tachycardia resolved.
+- Adverse effect from Cardizem (diltiazem): New onset bilateral lower extremity edema.
+- Chronic anemia: Hemoglobin declined to 9.1, likely chronic per assessment.
+- Chronic obstructive pulmonary disease/asthma or similar (suspected due to steroid use and diffuse wheezing): Symptoms improved, plan to wean steroids.
+
+---
+
+**Plan:**
+
+- Discontinue Cardizem due to peripheral edema; initiate verapamil for rate control.
+- Continue to monitor and address bilateral lower extremity edema.
+- Decrease and begin weaning of IV steroids today, monitoring respiratory status, as discussed with pulmonary specialist; aim for discharge planning.
+- Monitor anemia: Repeat CBC in the morning to assess hemoglobin trend; consider evaluation for etiology if anemia acutely worsens.
+- Cardiology to follow up and formally consult on rhythm management and medication adjustment.
+- Anticipated discharge timing to be determined by improvement in clinical status and resolution of acute issues; update expected by tomorrow.
+- Continue routine monitoring of vitals, physical defense, and response to medication changes.
+- No further questions from the patient at this time.
+
+---

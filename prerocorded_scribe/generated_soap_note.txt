@@ -1,0 +1,53 @@
+SOAP Note
+
+Subjective:
+
+- Chief Complaint (CC): Discussion regarding future treatments and advanced care planning in the context of ongoing stage IV breast cancer.
+
+- History of Present Illness (HPI): The patient, Kat, is a 39-year-old female with a nine-year history of breast cancer, initially diagnosed at 30. Four years ago, she developed metastatic disease involving her lungs and bones. She is currently receiving her fourth line of palliative chemotherapy, which she has tolerated well for the past four years and reports a good quality of life. The initial focus of symptom management was pain, particularly in the arm, which has since resolved with multidisciplinary management. She remains active and is generally well. The patient is open to ongoing discussion regarding escalation and de-escalation of care as her disease progresses.
+
+- History:
+    - Past Medical History: 
+        - Stage IV breast cancer (nine years; metastatic for four years: lung and bone involvement).
+    - Surgical History: Not specified.
+    - Medications: On fourth line palliative chemotherapy; specific agents not mentioned.
+    - Allergies: Not specified.
+    - Family History: Not specified.
+    - Social History: Lives with partner (Tariq); enjoys the outdoors and walking the dog; remains physically active.
+    
+- Review of Systems (ROS):
+    - General: Active and well; good quality of life.
+    - Cardiovascular: Not reported.
+    - Respiratory: Lung metastases; no current complaints reported.
+    - Gastrointestinal: Not reported.
+    - Musculoskeletal: Previous arm pain resolved; bone metastases noted.
+    - Neurological: Not reported.
+    - Psychiatric: Open, thoughtful, and engaged in advanced care planning; no mood disturbances reported.
+
+Objective:
+
+- General appearance: Appears well and active via video.
+- Vital signs: Not available via video.
+- Physical examination findings: None performed during video consultation.
+- Relevant lab or diagnostic information: Not available.
+
+Assessment:
+
+- Stage IV breast cancer with lung and bone metastases.
+    - Stable on current (fourth line) chemotherapy with tolerable side effects.
+    - Good baseline functional status and quality of life.
+- Pain, previously in arm, well controlled and now resolved.
+- Engaged and informed regarding advanced care planning and future treatment preferences.
+
+Plan:
+
+- Continue current chemotherapy regimen, as tolerated and effective.
+- Continue to admit for acute issues as appropriate (e.g., infections, anemia requiring transfusion).
+- Patient consents to full escalation of care, including hospital admissions and resuscitation, as long as she maintains her current functional status and quality of life.
+- Patient recognizes the need to revisit these decisions as her disease progresses, with willingness to consider de-escalation (e.g., DNACPR) if prognosis worsens or functional status declines.
+- Encourage open communication with partner regarding advanced care preferences; invite partner to future consultations if desired.
+- Clinician to document current wishes in the medical record and revisit discussions as needed in follow-up visits.
+- Offer ongoing advance care planning support and symptom management.
+- Arrange follow-up as per oncology schedule and offer further appointments for symptom review or advanced care planning discussions.
+
+If any needs, questions, or deterioration arise, patient advised to contact team promptly.
